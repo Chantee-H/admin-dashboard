@@ -202,3 +202,59 @@ button {
     border-bottom: 2px solid #e5e7eb;
     margin-top: 10px;
 }
+
+.trending {
+    margin-top: 20px;
+    font-size: 14px;
+    padding: 5px;
+}
+
+
+
+.head-trending {
+    margin-top: 20px;
+}
+
+.trending p {
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+
+
+.trending-name {
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.trending svg {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-top: 8px;
+}
+
+.cake-icon {
+    color: #cf8acf;
+    background-color: #2461bb; 
+}
+
+.moon-icon {
+    color: #fff;
+    background-color: #000;
+}
+
+.music-icon {
+    color: #50b6b1;
+    background-color: #c454c4;
+}
+
+.art-icon {
+    background-color: #9ce09c;
+    color: #d83550;
+}
+
+.trending-icon {
+    display: flex;
+}
