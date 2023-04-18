@@ -129,3 +129,44 @@ button {
     color: #fff;
     border: none;
 }
+
+.projects {
+    background-color: #e5e7eb;
+    grid-column: 2 / 4;
+    display: grid;
+     grid-template-rows: 1fr 10fr 10fr;  
+    gap: 20px 20px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.head-projects {
+    grid-column: 2 / 3;
+    grid-column-start: 1;
+    
+}
+
+.projects div {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #f3f4f6;
+    border-left: 5px solid #67adbe;
+    padding: 5px;
+}
+
+.projects h4 {
+    margin-top: 15px;
+}
+
+
+.projects svg {
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.project-icon {
+    display: flex;
+    justify-content: flex-end;
+}
