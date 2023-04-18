@@ -1,3 +1,3 @@
 # odin-admin-dashboard
 
-This is a design for a dashboard.
+This is a design for an Admin Dashboard.
