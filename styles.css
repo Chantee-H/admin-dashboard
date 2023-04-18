@@ -37,3 +37,95 @@ body {
     height: 15px;
     margin-left: 20px;
 }
+
+.header {
+    display: flex;
+    background-color: #f3f4f6;
+    grid-column: 2 / 5;
+}
+
+input {
+    width: 400px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 23px;
+    background-color: #e5e7eb;
+    border: 1px solid #67adbe;
+}
+
+.input-icon {
+    width: 18px;
+    height: 18px;
+    margin-top: 17px;
+}
+
+.search-bar {
+    display: flex;
+}
+
+.header1 {
+    margin-left: 50px;
+}
+
+.name {
+    margin-top: 5px;
+    font-weight: 600;
+
+}
+
+.hi {
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.bolt-icon1 {
+    width: 50px;
+    height: 50px;
+    color: #ffd700;
+    background-color: #d42929;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.bolt1 {
+   display: flex; 
+}
+
+
+.header2  {
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.bell-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.bolt-icon2 {
+    width: 30px;
+    height: 30px;
+    color: #ffd700;
+    background-color: #d42929;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.bolt2 {
+    display: flex;
+}
+
+button {
+    margin-top: 25px;
+    width: 80px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: #67adbe;
+    color: #fff;
+    border: none;
+}
