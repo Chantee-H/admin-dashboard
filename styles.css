@@ -170,3 +170,35 @@ button {
     display: flex;
     justify-content: flex-end;
 }
+
+.info {
+    background-color: #e5e7eb;
+    padding: 20px;
+}
+
+.info div {
+    border-radius: 5px;
+    background-color: #f3f4f6;
+}
+
+.head-announcements {
+    margin-bottom: 18px;
+}
+
+.announcements p {
+    font-size: 12px;
+}
+
+.announcements h5 {
+    margin-top: 15px;
+    
+}
+
+.announcements  {
+    padding: 5px;
+}
+
+.announcement-line {
+    border-bottom: 2px solid #e5e7eb;
+    margin-top: 10px;
+}
