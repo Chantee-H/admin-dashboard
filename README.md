@@ -1,4 +1,4 @@
-# odin-admin-dashboard
+# admin-dashboard
 
 This is a design for an Admin Dashboard.
 
